@@ -1,0 +1,6 @@
+# Definisi fungsi dengan parameter `nama` dan `umur`
+def perkenalan(nama, umur):
+    print(f"Halo, nama saya {nama} dan saya berumur {umur} tahun.")
+
+# Pemanggilan fungsi dengan argumen
+perkenalan("imel", 19)
